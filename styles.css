@@ -4,12 +4,13 @@ body{
 }
 .book-library{
 	background-color:#ffffff;
+	text-align:center;
 }
 author{
 	color:#777777;
 }
 	.price{
 		font-weight:bold;
+		text-align:center;
 	background-color:#2ecc71;
 	}
-}
