@@ -12,6 +12,9 @@ body {
 .book-library {
      flex-wrap: wrap;
     justify-content: center;
+	box-shadow:4px;
+	width:200px;
+	text-align:center;
 }
 
 p{
